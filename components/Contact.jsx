@@ -46,7 +46,7 @@ function Contact() {
           from_name: DOMPurify.sanitize(form.name),
           to_name: "Sonu Yadav",
           from_email: DOMPurify.sanitize(form.email),
-          to_email: "sonuyadav77607@gmail.com",
+          to_email: "sonuyadav.in1999@gmail.com",
           message: DOMPurify.sanitize(form.message),
         },
         process.env.NEXT_PUBLIC_EMAILJS_KEY

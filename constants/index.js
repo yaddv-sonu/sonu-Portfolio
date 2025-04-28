@@ -264,7 +264,7 @@ const technologies = {
 const experiences = [
   {
     title: "Frontend Developer",
-    company_name: "Zemurra , Pondicherry",
+    company_name: "Zemuria , Pondicherry",
     icon: "/assets/company/zemuria-logo.svg",
     iconBg: "#ffffff",
     date: "Sep 2024 - Present",
@@ -280,7 +280,7 @@ const experiences = [
   },
   {
     title: "MERN Stack Developer",
-    company_name: "Trando : (IT Services & Consulting), Noida",
+    company_name: "Trando  : (IT Services & Consulting), Noida",
     icon: "/assets/company/trando-logo.svg",
     iconBg: "#ffffff",
     date: "Jan 2023 - Aug 2024",
